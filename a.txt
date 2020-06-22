@@ -5,3 +5,4 @@ second line
 5th line
 new color
 new master by master
+new color 1 by color
