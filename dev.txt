@@ -3,3 +3,7 @@ new dev by dev
 new dev1 by dev1
 new dev2 by dev2
 new dev3 by dev3
+##########
+first action after connect github
+second action
+3rd action
